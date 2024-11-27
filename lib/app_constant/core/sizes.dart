@@ -1,0 +1,12 @@
+const double size_5 = 5;
+const double size_10 = 10;
+const double size_11 = 11;
+const double size_12 = 12;
+const double size_14 = 14;
+const double size_18 = 18;
+const double size_20 = 20;
+const double size_24 = 24;
+const double size_25 = 25;
+const double size_30 = 30;
+const double size_40 = 40;
+const double size_50 = 50;
